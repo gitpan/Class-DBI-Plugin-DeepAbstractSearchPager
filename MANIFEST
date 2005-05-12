@@ -1,0 +1,8 @@
+Changes
+DeepAbstractSearchPager.pm
+Makefile.PL
+MANIFEST
+README
+t/00_compile.t
+t/01_search.t
+META.yml                                 Module meta-data (added by MakeMaker)
