@@ -6,7 +6,7 @@ use Carp;
 use UNIVERSAL::require;
 use base qw( Data::Page Class::Data::Inheritable ); 
 
-our $VERSION = 0.01;
+our $VERSION = 0.02;
 
 # D::P inherits from Class::Accessor::Chained::Fast
 __PACKAGE__->mk_accessors( qw( where abstract_attr per_page page order_by _cdbi_app ) );
