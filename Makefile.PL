@@ -11,6 +11,8 @@ WriteMakefile(
 			Class::DBI::Plugin => 0.02,
 			Class::DBI::Plugin::DeepAbstractSearch => 0.08,
 			UNIVERSAL::require => 0.10,
+			Data::Page => 2.0,
+			Class::Data::Inheritable => 0.06,
     },
     ($] >= 5.005 ?     ## Add these new keywords supported since 5.005
       (ABSTRACT_FROM  => 'lib/Class/DBI/Plugin/DeepAbstractSearchPager.pm', # retrieve abstract from module

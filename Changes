@@ -1,5 +1,8 @@
 Revision history for Perl extension Class::DBI::Plugin::DeepAbstractSearchPager.
 
+0.03  January 20, 2008 12:43:23 AM CST
+	- added more missing prerequisites to Make.PL
+
 0.02  January 18, 2008 11:11:43 PM CST
 	- added missing prerequisites to Make.PL
 	- changed folder structure
