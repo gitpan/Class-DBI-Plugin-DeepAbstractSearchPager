@@ -11,7 +11,7 @@ WriteMakefile(
 			Class::DBI::Plugin => 0.02,
 			Class::DBI::Plugin::DeepAbstractSearch => 0.08,
 			UNIVERSAL::require => 0.10,
-			Data::Page => 2.0,
+			Class::DBI::Plugin::Pager => 0.56,
 			Class::Data::Inheritable => 0.06,
     },
     ($] >= 5.005 ?     ## Add these new keywords supported since 5.005

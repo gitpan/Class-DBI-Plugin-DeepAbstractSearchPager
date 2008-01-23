@@ -1,7 +1,7 @@
 # http://module-build.sourceforge.net/META-spec.html
 #XXXXXXX This is a prototype!!!  It will change in the future!!! XXXXX#
 name:         Class-DBI-Plugin-DeepAbstractSearchPager
-version:      0.03
+version:      0.04
 version_from: lib/Class/DBI/Plugin/DeepAbstractSearchPager.pm
 installdirs:  site
 requires:
@@ -9,7 +9,7 @@ requires:
     Class::DBI:                    0.96
     Class::DBI::Plugin:            0.02
     Class::DBI::Plugin::DeepAbstractSearch: 0.08
-    Data::Page:                    2
+    Class::DBI::Plugin::Pager:     0.56
     Test::More:                    0.32
     UNIVERSAL::require:            0.1
 
